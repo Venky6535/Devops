@@ -1,0 +1,32 @@
+.container{
+    background-color: violet;
+    height: 500px;
+    width: 100%;
+    
+}
+.m-100{
+     
+    
+}
+.d-flex  {
+    display: flex;
+    margin: 28px 500px 0px;
+    margin-top: -140px;
+    
+     
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+ 
+.juli{
+    width: 100%;
+    height: 100px;
+    background-color: yellow;
+    margin-top: -80px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    background-color: #fff;
+}
+ 
